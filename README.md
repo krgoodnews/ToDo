@@ -12,6 +12,8 @@ ToDo iOS app is a demo of RIBs architecture https://github.com/uber/RIBs/wiki
 # You can find examples of:
 
 0. RIBs architecture in real application
+![image](https://user-images.githubusercontent.com/8576087/93495006-9f12ea80-f948-11ea-95a9-4e9107f0031b.png)
+
 1. Presenting / Dismissing modal view controller
 2. Pushing / Poping a view controller
 3. Handling back gesture and back button tap in UINavigationController

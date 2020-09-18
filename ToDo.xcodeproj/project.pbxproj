@@ -634,7 +634,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-ToDo/Pods-ToDo-frameworks.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-ToDo/Pods-ToDo-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/DynamicButton/DynamicButton.framework",
 				"${BUILT_PRODUCTS_DIR}/Eureka/Eureka.framework",
 				"${BUILT_PRODUCTS_DIR}/IGListKit/IGListKit.framework",
@@ -667,7 +667,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ToDo/Pods-ToDo-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ToDo/Pods-ToDo-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		757A4E7E56EA4FB0AA9CC45A /* [CP] Check Pods Manifest.lock */ = {
