@@ -37,7 +37,7 @@ DEPENDENCIES:
   - TransitionButton
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - DynamicButton
     - Eureka
     - IGListKit
@@ -69,4 +69,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 665e0767b2ec078e6393cc7b676e4635a6300ae3
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.9.3
